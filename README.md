@@ -2,7 +2,7 @@
 This repository will be the home for all necessary code for our capstone project.
 
 ```mermaid
-flowchart TB
+flowchart LR
 
 A["<b>Raw Documents</b><br/>(PDF, DOC, DOCX)"] ==> B["<b>Text Extraction</b><br/>(multi-format parsing)"]
 
