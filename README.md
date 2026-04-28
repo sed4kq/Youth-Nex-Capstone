@@ -32,6 +32,33 @@ H ==> I["<b>Final Outputs</b><br/>(deduplicated bibliography,<br/>metrics, repor
 ---
 
 ## Repository Structure
+| File | Description |
+|---|---|
+| `official_youthnex_pipeline.ipynb` | Main end-to-end complete pipeline notebook |
+| `bibliography_extraction.ipynb` | Citation extraction from raw text only |
+| `deduplication_function_final.ipynb` | Deduplication logic and similarity matching only |
+| `preprocessing_aggregation_ARD.ipynb` | Preprocessing for ARD documents only |
+| `preprocessing_aggregation_CVs.ipynb` | Preprocessing for CV documents only |
+| `project_flow_diagram.md` | Mermaid diagram of pipeline architecture only |
+
+---
+
+## Data Input Requirements
+
+The base directory (`BASE`) must contain year-level subfolders:
+
+```
+BASE/
+  2020/
+  2021/
+  2022/
+  2023/
+  2024/
+  2025/
+```
+
+Each year folder is processed independently.
+
 
 
 Data Input Requirements 
