@@ -1,4 +1,12 @@
-# Youth-Nex-Capstone
+# Youth-Nex-Capstone Citation Pipeline
+A data pipeline for extracting, normalizing, deduplicating, and reporting bibliographic citations from YouthNex annual appendix documents.
+
+---
+
+## Overview
+This project automates the process of extracting citation data from yearly appendix documents (PDF, DOC, DOCX, etc.), deduplicating references across years, and generating clean bibliographic outputs for reporting and analysis.
+
+**Pipeline flow:**
 ```mermaid
 flowchart LR
 
@@ -21,6 +29,10 @@ G ==> H["<b>Integrated Pipeline</b>"]
 
 H ==> I["<b>Final Outputs</b><br/>(deduplicated bibliography,<br/>metrics, reporting)"]
 ```
+---
+
+## Repository Structure
+
 
 Data Input Requirements 
 
