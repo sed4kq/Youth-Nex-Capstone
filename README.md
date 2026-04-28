@@ -76,5 +76,49 @@ Within identified appendix folders, files are selected if their filenames contai
 
 Matching is case-insensitive and applied to the full filename.
 
+---
 
+## Outputs
+
+### User-Facing Outputs
+
+| File | Description | Use Cases |
+|---|---|---|
+| `deduplicated_citations.csv` | Final cleaned dataset of unique citations | Data analysis, dashboards, internal reporting |
+| `bibliography_clean.pdf` | Formatted bibliography from deduplicated citations | Annual reports, grant submissions, stakeholder deliverables |
+
+### Output Infographics
+
+The pipeline generates three summary visualizations:
+
+- **Deduplication Summary** — Total vs. unique citations and percentage reduction
+- **Deduplication Impact** — Visual comparison of original vs. unique citation counts
+- **Top 10 Most Frequent Authors** — Citation counts for the highest-output researchers
+
+### Runtime Artifacts (Left Sidebar / Folders)
+
+| Folder | Contents |
+|---|---|
+| `/youthnex_txt_spaces` | `.txt` versions of extracted source documents |
+| `/biblio_exports` | Categorized extraction CSVs: candidates, needs review (no citation / no section), problem citations |
+| `/converted_docx` | `.docx` files converted from `.doc` format |
+| `/dedup_exports` | Final outputs: `deduplicated_citations.csv` and `bibliography_clean.pdf` |
+
+---
+
+## Getting Started
+
+1. Clone this repository.
+2. Open `official_youthnex_pipeline.ipynb` in Jupyter or Google Colab.
+3. Set your `BASE` directory path to point to your year-organized appendix folders.
+4. Upload your `.zip` archive when prompted.
+5. Run all cells. Outputs will appear in `/dedup_exports`.
+
+---
+
+## Requirements
+
+- Python 3.x
+- Jupyter Notebook or Google Colab
+- Dependencies: see the import cells at the top of each notebook (common packages include `pandas`, `pdfplumber`, `python-docx`, `fuzzywuzzy`, `matplotlib`)
 
