@@ -95,7 +95,7 @@ The pipeline generates three summary visualizations:
 ## Getting Started
 
 1. Clone or download documents from this repository.
-2. Open `official_youthnex_pipeline.ipynb` in Jupyter or Google Colab.
+2. Open `official_youthnex_pipeline.ipynb` in Google Colab.
 3. Set your `BASE` directory path to point to your year-organized appendix folders.
 4. Upload your `.zip` archive when prompted.
 5. Run all cells. Outputs will appear in `/dedup_exports`.
