@@ -45,20 +45,6 @@ H ==> I["<b>Final Outputs</b><br/>(deduplicated bibliography,<br/>metrics, repor
 
 ## Data Input Requirements
 
-The base directory (`BASE`) must contain year-level subfolders:
-
-```
-BASE/
-  2020/
-  2021/
-  2022/
-  2023/
-  2024/
-  2025/
-```
-
-Each year folder is processed independently.
-
 ### Input File Constraints
 
 - Input must be a `.zip` archive containing the final appendix documents for a given year.
@@ -108,7 +94,7 @@ The pipeline generates three summary visualizations:
 
 ## Getting Started
 
-1. Clone this repository.
+1. Clone or download documents from this repository.
 2. Open `official_youthnex_pipeline.ipynb` in Jupyter or Google Colab.
 3. Set your `BASE` directory path to point to your year-organized appendix folders.
 4. Upload your `.zip` archive when prompted.
@@ -118,7 +104,6 @@ The pipeline generates three summary visualizations:
 
 ## Requirements
 
-- Python 3.x
-- Jupyter Notebook or Google Colab
-- Dependencies: see the import cells at the top of each notebook (common packages include `pandas`, `pdfplumber`, `python-docx`, `fuzzywuzzy`, `matplotlib`)
-
+- Google Colab (no local installation required)
+- A Google account to access Colab
+- Dependencies are handled within the notebook itself
