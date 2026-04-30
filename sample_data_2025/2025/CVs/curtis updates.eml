@@ -1,0 +1,1532 @@
+Received: from BLAPR13MB4722.namprd13.prod.outlook.com (2603:10b6:208:333::18)
+ by LV3PR13MB6526.namprd13.prod.outlook.com with HTTPS; Mon, 19 May 2025
+ 17:09:45 +0000
+Authentication-Results: dkim=none (message not signed)
+ header.d=none;dmarc=none action=none header.from=virginia.edu;
+Received: from DM5PR1301MB2202.namprd13.prod.outlook.com (2603:10b6:4:2f::39)
+ by BLAPR13MB4722.namprd13.prod.outlook.com (2603:10b6:208:333::18) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.8746.31; Mon, 19 May
+ 2025 17:09:43 +0000
+Received: from DM5PR1301MB2202.namprd13.prod.outlook.com
+ ([fe80::5623:4e45:72d:f9b8]) by DM5PR1301MB2202.namprd13.prod.outlook.com
+ ([fe80::5623:4e45:72d:f9b8%5]) with mapi id 15.20.8746.030; Mon, 19 May 2025
+ 17:09:42 +0000
+From: "Curtis, Sabrina Jean (sjc4xq)" <sjc4xq@virginia.edu>
+To: Youth-Nex <youth-nex@virginia.edu>
+Subject: Re: Annual Report Request-Sabrina Curtis updates
+Thread-Topic: Annual Report Request-Sabrina Curtis updates
+Thread-Index: AQHbyODAePNSOeKFbkWtU42rHKKznQ==
+Date: Mon, 19 May 2025 17:09:30 +0000
+Message-ID:
+ <DM5PR1301MB2202E61B68A3227A312D0BC1E29CA@DM5PR1301MB2202.namprd13.prod.outlook.com>
+References: <8F23924B-5EB7-4F2D-872C-832BA0606865@virginia.edu>
+In-Reply-To: <8F23924B-5EB7-4F2D-872C-832BA0606865@virginia.edu>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach: yes
+X-MS-Exchange-Organization-SCL: 1
+X-MS-TNEF-Correlator:
+ <DM5PR1301MB2202E61B68A3227A312D0BC1E29CA@DM5PR1301MB2202.namprd13.prod.outlook.com>
+x-ms-reactions: allow
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource:
+ DM5PR1301MB2202.namprd13.prod.outlook.com
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-MS-Exchange-Organization-Network-Message-Id:
+ 59181980-4f78-44e8-507e-08dd96f7f29b
+X-MS-PublicTrafficType: Email
+X-MS-TrafficTypeDiagnostic:
+ DM5PR1301MB2202:EE_|BLAPR13MB4722:EE_|LV3PR13MB6526:EE_
+Return-Path: sjc4xq@virginia.edu
+X-MS-Exchange-Organization-ExpirationStartTime: 19 May 2025 17:09:43.1865
+ (UTC)
+X-MS-Exchange-Organization-ExpirationStartTimeReason: OriginalSubmit
+X-MS-Exchange-Organization-ExpirationInterval: 1:00:00:00.0000000
+X-MS-Exchange-Organization-ExpirationIntervalReason: OriginalSubmit
+X-MS-Office365-Filtering-Correlation-Id: 59181980-4f78-44e8-507e-08dd96f7f29b
+X-MS-Exchange-AtpMessageProperties: SA
+X-Microsoft-Antispam:
+ BCL:0;ARA:13230040|366016|13003099007|7053199007|4013099003|8096899003|41050700001;
+X-Forefront-Antispam-Report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:DM5PR1301MB2202.namprd13.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230040)(366016)(13003099007)(7053199007)(4013099003)(8096899003)(41050700001);DIR:INT;
+X-MS-Exchange-CrossTenant-OriginalArrivalTime: 19 May 2025 17:09:42.7282
+ (UTC)
+X-MS-Exchange-CrossTenant-FromEntityHeader: Hosted
+X-MS-Exchange-CrossTenant-Id: 7b3480c7-3707-4873-8b77-e216733a65ac
+X-MS-Exchange-CrossTenant-AuthSource: DM5PR1301MB2202.namprd13.prod.outlook.com
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-Network-Message-Id: 59181980-4f78-44e8-507e-08dd96f7f29b
+X-MS-Exchange-CrossTenant-MailboxType: HOSTED
+X-MS-Exchange-CrossTenant-UserPrincipalName: nDno3fWHH7R1GNXQY9fltMSENzqmO48iiiE/TcxO9Ccr90GLVJ0eQtFM1nGU7ZLdozyXkb096z5xT4bE+4qN8Q==
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BLAPR13MB4722
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:03.0673202
+X-MS-Exchange-Processed-By-BccFoldering: 15.20.8746.028
+X-Microsoft-Antispam-Mailbox-Delivery:
+	ucf:0;jmr:0;auth:0;dest:I;ENG:(910005)(944506478)(944626604)(920097)(425001)(930097)(140003);
+X-Microsoft-Antispam-Message-Info:
+	/ufVxvLUFH2oj2TY3tb6Fd2x7W6qaZIi/i5hnmSlbekznFT//cVmdkRC0rxwvGB9NaeLdS3HIaTOLhKCZrE5i2Tuninzl3eMc0jIioIFZbIzUiFH66+uDBZWGeALaPKqNndWrUIoSbeXUVwjm07NM8fOCRficsvqUvFPHBDYSfA58b/W91zL+pmswZ5iMPwuWiGyqWxVHuu2rCVAOuMTydFtAwQ1z9rXpj8ZWngP0X+bxV//gQ7P45Ztw4VD6/o97xN4Zn04Ei1KsQ8jpyA5VEEfrdwmZG+4GTDr1dtthnP5zj5E8IHfzai9Mim7r5NbZ1I1o9+VIM5XJrDUtqKh5uUD+LhrKLxVtJqCbnLpoPJo/ajTY3ktdVqclEnwAyzG7ROWhK4+xhsbpnRHqo+PwGU3RwP0FBZQ98szXkqv9XFWa3XXNFnwHesg3BY7Se4inND08fMrXvk4SfdhZLpeX7bf7orA9zFYsU1ZS7rF2X0H3BT0KnWnyBVNT8Ms8jo1iDSq2vUyOWFx04NzUa1x5pVPgU3DomZFD1SyRcy/pVqSz5UFcilyb1Z0Dw6npL5gcKTYK5mT9HgxETWDV7H/82A5VKVrHnVIhKSOIWVAoZ0U5L9F7LeoXaVF6gbGQoDeIaLYD9Tp4TP0uzC3FWZS0UQ/Op64nSbGKgUj0YXks7kRC7/xs2KbkB03e5hGFr48sKr7jX62+oKTX/0OJTKR878SkF4WTbmNCIlzeFgCOPKFp6rZv3Yo62z+tGM25Zw0iPuUKyDCHeH6X4QGzCyp51DUVKTLlBBtxdGVYyKq14s=
+Content-type: multipart/mixed;
+	boundary="B_3830510866_1589718790"
+
+> This message is in MIME format. Since your mail reader does not understand
+this format, some or all of this message may not be legible.
+
+--B_3830510866_1589718790
+Content-type: multipart/related;
+	boundary="B_3830510866_605808439"
+
+--B_3830510866_605808439
+Content-type: multipart/alternative;
+	boundary="B_3830510866_3125773773"
+
+
+--B_3830510866_3125773773
+Content-type: text/plain;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+Hi Team Youth-Nex,=20
+
+=20
+
+My updated CV is attached. I=E2=80=99ve had one publication and one conference pr=
+esentation since July 2024:
+
+=20
+
+Curtis, S. J., & Evans-Winters, V. E. (2025). Research beyond the gaze: Bla=
+ck feminism and youth participatory action research as critical qualitative =
+interventions. International Journal of Qualitative Studies in Education, 1=E2=
+=80=9319. https://doi.org/10.1080/09518398.2025.2502071
+
+=20
+
+Curtis, S.J. (2025, April). Empowering youth through participatory action r=
+esearch for democracy and justice. [Invited Speaker Session]. American Educa=
+tional Research Association Annual Meeting, Denver, CO.
+
+=20
+
+Take care and have a great summer.=20
+
+=20
+
+Best,
+
+Sabrina
+
+=20
+
+--
+
+Sabrina J. Curtis, Ph.D.
+
+Assistant Professor, Youth and Social Innovation
+
+School of Education and Human Development
+
+University of Virginia
+
+Email: SabrinaJCurtis@virginia.edu
+
+Phone: 434-243-2760
+
+www.sabrinajcurtis.com
+
+education.virginia.edu
+
+=20
+
+=20
+
+=20
+
+=20
+
+From: yn-ehd-request@virginia.edu <yn-ehd-request@virginia.edu> on behalf o=
+f Youth-Nex <youth-nex@virginia.edu>
+Date: Tuesday, May 6, 2025 at 7:30=E2=80=AFAM
+To: yn-ehd@virginia.edu <yn-ehd@virginia.edu>, yn-uva@virginia.edu <yn-uva@=
+virginia.edu>, YN-Gradstudents@virginia.edu <YN-Gradstudents@virginia.edu>, =
+YN-Affiliate@virginia.edu <YN-Affiliate@virginia.edu>
+Subject: Annual Report Request
+
+Good morning Youth-Nex colleagues,
+
+=20
+
+Per the announcement below in our last update email, if you are receiving t=
+his email, we would like to include you in our annual report! This is a year=
+ly summary document we provide to our funders/supporters, and use for develo=
+pment/advancement purposes that highlights members of our community and thei=
+r accomplishments. Please reply with your current CV or updated accomplishme=
+nts/scholarship from July 2024 to now!=20
+
+=20
+
+We are hoping to connect with scholars now before graduation that may be of=
+fline this summer. Thank you for supporting this annual report effort!
+
+=20
+
+=20
+
+From: Youth-Nex <youth-nex@virginia.edu>
+Date: Friday, April 18, 2025 at 7:00=E2=80=AFAM
+To: "yn-ehd@virginia.edu" <yn-ehd@virginia.edu>, "yn-uva@virginia.edu" <yn-=
+uva@virginia.edu>, "YN-Gradstudents@virginia.edu" <YN-Gradstudents@virginia.=
+edu>, "YN-Affiliate@virginia.edu" <YN-Affiliate@virginia.edu>
+Subject: YN Apr25 update | New Collaboration Corner, Annual Report, etc.
+
+=20
+
+Dear Youth-Nex colleagues,
+
+=20
+
+As we approach the spring semester finals, this update email is for interna=
+l members of our Youth-Nex community with community updates, and more! If yo=
+u need any assistance or support, please do not hesitate to reach out to any=
+ of the Youth-Nex staff.
+
+=20
+
+ANNOUNCEMENTS
+NEW: Introducing the Youth-Nex Collaboration Corner! The "Collaboration Cor=
+ner" is a fresh addition to our monthly or quarterly internal update emails =
+to highlight opportunities for collaboration, which will live under UVA netb=
+adge on the Youth-Nex Drive. This effort is designed to shine a spotlight on=
+ our diverse scholars, their innovative projects, and the groundbreaking wor=
+k being done across Youth-Nex (see attached PDF for more on this new effort)=
+. Watch for updates and contact Leslie if you are interested in being featur=
+ed!
+YN Annual Report: If you are receiving this email, we would like to include=
+ you in our annual report! This is a yearly summary document we provide to o=
+ur funders/supporters, and use for development purposes that highlights memb=
+ers of our community. Please reply with your current CV or updated accomplis=
+hment/scholarships from since July 2024! We are hoping to connect with schol=
+ars now that may not be online this summer.=20
+Summer Wage Planning: The upcoming UVA summer HR period will run from 5/19/=
+2025 through 8/10/25! We are starting to plan for your summer wage needs so =
+they can be shepherded through the new hiring requirements. Please let Lesli=
+e know what extension or new hires you have, and watch for communications!
+Faculty members are sometimes targeted, on social media and elsewhere, for =
+the research they conduct or the views they express. The UVA Provost's Onlin=
+e Targeting Response Resources provides guidance and support for navigating =
+online harassment.
+Youth Writing Opportunity: Attached is a call for proposals for upcoming sp=
+ecial issue of English Journal focused on student/youth voice, research, and=
+ activism. They are welcoming manuscripts written solely by young folks or c=
+o-authored with teachers/mentors due 8/1/25. Email Lauren Leigh Kelly at lau=
+ren.kelly@gse.rutgers.edu with questions!
+Ethical Approaches to Mandatory Reporting Study: Please see the attached re=
+cruitment flyer from a former YN student who is conducting a qualitative stu=
+dy on researchers who work with youth and families, and handle situations in=
+volving mandatory reporting (see interest form).
+Happy upcoming birthdays to Martha Pullen (5/6) and Taina Quiles (5/9)! You=
+ are welcome and encouraged to share your birthday in this survey to be reco=
+gnized in the future!
+=20
+
+REMINDERS
+YN Student Interest Database for Volunteers: As a reminder, every month we =
+are adding new students (UVA and non-UVA) who are interested in working with=
+ members of the center. With these uncertain budget times, please note that =
+some students are looking to volunteer this summer if you are looking for su=
+pport!
+As we approach more conferences before graduation (AERA/SRCD, etc.), please=
+ consider re-reviewing our Youth-Nex Job Market Candidates to mention to you=
+r colleagues or introduce this junior scholars, where applicable!
+YN Core Faculty:=20
+Please let Crystal know of any potential proposals you plan on submitting b=
+etween now and end of July. Even if they don=E2=80=99t come to fruition, it helps =
+to know about them so that we can plan accordingly and ensure adequate cover=
+age between Youth-Nex and the EHD pre-award office.=20
+Given the recent email updates from President Ryan and Dean Rowley regardin=
+g budget challenges and discretionary expenditures, please read over the EHD=
+ memos carefully. Please note that YN has also suspended non-essential expen=
+ditures on non-sponsored funds including Youth-Nex specific professional dev=
+elopment support, and is requiring documented PI approval for all travel. Pl=
+ease follow-up with Crystal/Martha with questions!
+If you missed it, attached here is an end-of-the-year message from YN Direc=
+tor Nancy Deutsch!
+=20
+
+EVENTS
+Upcoming! Sp25 Research Talk: On Friday May 2nd at 11 AM in Ridley 302, You=
+th-Nex is hosting Dr. Daniel J. Flannery on "Challenges to Positive Youth De=
+velopment: Violence & Mental Health in Everyday Life=E2=80=9D (iCal is attached). =
+There is a hybrid option for designated remote employees or non-local partne=
+rs, and options for on-Grounds parking is available for non-UVA local partne=
+rs who may want to attend (please reach out to Leslie for more info).
+Fall Talk Save the Date: We will be welcoming Dr. Deborah Rivas-Drake (Step=
+hanie J. Rowley Collegiate Professor, and Associate Dean for Diversity, Incl=
+usion, Justice, and Equity in the Marsal School of Education at University o=
+f Michigan) on Friday 9/26. Please mark your calendar now and watch for futu=
+re updates!
+=20
+
+NEWS
+Goal Setting with Middle Schoolers: Post-doc Jia Ma shares tips and downloa=
+dable resources for helping students set goals.
+Social Media & Mental Health: Teen author Reanna summarizes and reflects on=
+ a debate at our fall conference.=20
+EHD Podcast: Check out and listen to Dr. Lora Henderson Smith and her schol=
+arship being highlighted in this new episode!
+AERA Fellow: Congrats to Dr. Catherine Bradshaw who was selected as a 2025 =
+AERA Fellow!
+Science of Parenting: The UVA Magazine highlights work by our Dr.s Wintre F=
+oxworth Johnson and Amrisha Vaish.
+=20
+
+For more updates on news at Youth-Nex this month, please follow us on any o=
+f the social media platforms! Thank you for supporting Youth-Nex and the imp=
+ortant work happening here.
+
+ =20
+
+=20
+
+--
+
+=20
+
+Youth-Nex | Center to Promote Effective Youth Development
+
+University of Virginia | School of Education and Human Development
+
+PO Box 400281
+
+Charlottesville, VA 22904
+
+Youth-Nex@virginia.edu
+
+http://education.virginia.edu/Youth-Nex
+
+=20
+
+Follow us on social media: X | Facebook | Instagram | Youtube | Threads | L=
+inkedIn
+
+Sign up for the Youth-Nex Newsletter!=20
+
+=20
+
+
+--B_3830510866_3125773773
+Content-type: text/html;
+	charset="UTF-8"
+Content-transfer-encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-microsof=
+t-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" xmlns:m=
+=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http://www.w3.org=
+/TR/REC-html40"><head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"><meta na=
+me=3D"Generator" content=3D"Microsoft Word 15 (filtered medium)"><!--[if !mso]><=
+style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Aptos;
+	panose-1:2 11 0 4 2 2 2 2 2 4;}
+@font-face
+	{font-family:garamond;
+	panose-1:2 2 4 4 3 3 1 1 8 3;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0in;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:.5in;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;}
+span.apple-converted-space
+	{mso-style-name:apple-converted-space;}
+span.EmailStyle22
+	{mso-style-type:personal-reply;
+	font-family:"Aptos",sans-serif;
+	color:windowtext;}
+span.il
+	{mso-style-name:il;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	mso-ligatures:none;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.0in 1.0in 1.0in;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:770659828;
+	mso-list-template-ids:1656269024;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1
+	{mso-list-id:813764943;
+	mso-list-template-ids:-1892098292;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l1:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2
+	{mso-list-id:1110852993;
+	mso-list-template-ids:1332892656;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3
+	{mso-list-id:1266697198;
+	mso-list-template-ids:2098522450;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4
+	{mso-list-id:1395278833;
+	mso-list-template-ids:-1829585746;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5
+	{mso-list-id:1410881069;
+	mso-list-template-ids:2086579270;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l5:level3
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level4
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level5
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level6
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level7
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level8
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level9
+	{mso-level-number-format:bullet;
+	mso-level-text:=EF=82=B7;
+	mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3D"EN-US" link=3D"#0563C1" =
+vlink=3D"purple" style=3D"word-wrap:break-word"><div class=3D"WordSection1"><p cla=
+ss=3D"MsoNormal"><span style=3D"font-family:&quot;Aptos&quot;,sans-serif">Hi Tea=
+m Youth-Nex, <o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-fa=
+mily:&quot;Aptos&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p><p class=3D"Mso=
+Normal"><span style=3D"font-family:&quot;Aptos&quot;,sans-serif">My updated CV=
+ is attached. I=E2=80=99ve had one publication and one conference presentation sin=
+ce July 2024:<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-fa=
+mily:&quot;Aptos&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p><p class=3D"Mso=
+Normal" style=3D"margin-left:.5in;text-indent:-.5in"><span style=3D"font-size:11=
+.5pt;color:black;background:white">Curtis, S. J., &amp; Evans-Winters, V. E.=
+ (2025). Research beyond the gaze: Black feminism and youth participatory ac=
+tion research as critical qualitative interventions.&nbsp;</span><i>Internat=
+ional Journal of Qualitative Studies in Education</i>, 1=E2=80=9319. <a href=3D"http=
+s://doi.org/10.1080/09518398.2025.2502071">https://doi.org/10.1080/09518398.=
+2025.2502071</a><span style=3D"font-size:11.5pt;font-family:&quot;Times New Ro=
+man&quot;,serif;color:black"><o:p></o:p></span></p><p class=3D"MsoNormal"><spa=
+n style=3D"font-family:&quot;Aptos&quot;,sans-serif"><o:p>&nbsp;</o:p></span><=
+/p><p class=3D"MsoNormal" style=3D"margin-left:.5in;text-indent:-.5in"><span sty=
+le=3D"font-size:11.5pt;color:black;background:white">Curtis, S.J. (2025, April=
+). Empowering youth through participatory action research for democracy and =
+justice. [Invited Speaker Session]. </span><span class=3D"il"><span style=3D"fon=
+t-size:11.5pt;color:black">American Educational Research Association</span><=
+/span><span class=3D"apple-converted-space"><span style=3D"font-size:11.5pt;colo=
+r:black;background:white">&nbsp;</span></span><span style=3D"font-size:11.5pt;=
+color:black;background:white">Annual Meeting, Denver, CO.</span><span style=3D=
+"font-size:11.5pt;font-family:&quot;Times New Roman&quot;,serif;color:black;=
+background:white"><o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"fo=
+nt-family:&quot;Aptos&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p><p class=
+=3D"MsoNormal"><span style=3D"font-family:&quot;Aptos&quot;,sans-serif">Take car=
+e and have a great summer. <o:p></o:p></span></p><p class=3D"MsoNormal"><span =
+style=3D"font-family:&quot;Aptos&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p=
+><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Aptos&quot;,sans-serif"=
+>Best,<o:p></o:p></span></p><p class=3D"MsoNormal"><span style=3D"font-family:&q=
+uot;Aptos&quot;,sans-serif">Sabrina<o:p></o:p></span></p><p class=3D"MsoNormal=
+"><span style=3D"font-family:&quot;Aptos&quot;,sans-serif"><o:p>&nbsp;</o:p></=
+span></p><div><div><p class=3D"MsoNormal"><span style=3D"font-family:&quot;garam=
+ond&quot;,serif;color:#222222;background:white">--</span><span style=3D"font-f=
+amily:&quot;garamond&quot;,serif"><o:p></o:p></span></p><p class=3D"MsoNormal"=
+ style=3D"background:white"><b><span style=3D"font-family:&quot;garamond&quot;,s=
+erif;color:#033C5A">Sabrina J. Curtis, Ph.D.</span></b><span style=3D"font-fam=
+ily:&quot;garamond&quot;,serif;color:#212121"><o:p></o:p></span></p><p class=
+=3D"MsoNormal" style=3D"background:white"><span style=3D"font-family:&quot;garamon=
+d&quot;,serif;color:black">Assistant Professor, Youth and Social Innovation<=
+/span><span style=3D"font-family:&quot;garamond&quot;,serif;color:#212121"><o:=
+p></o:p></span></p><p class=3D"MsoNormal" style=3D"background:white"><span style=
+=3D"font-family:&quot;garamond&quot;,serif;color:black">School of Education an=
+d Human Development</span><span style=3D"font-family:&quot;garamond&quot;,seri=
+f;color:#212121"><o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"backgroun=
+d:white"><span style=3D"font-family:&quot;garamond&quot;,serif;color:black">Un=
+iversity of Virginia</span><span style=3D"font-family:&quot;garamond&quot;,ser=
+if;color:#212121"><o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"backgrou=
+nd:white"><span style=3D"font-family:&quot;garamond&quot;,serif;color:black">E=
+mail:&nbsp;<a href=3D"mailto:SabrinaJCurtis@virginia.edu" title=3D"mailto:Sabrin=
+aJCurtis@virginia.edu"><span style=3D"color:#0078D7">SabrinaJCurtis@virginia.e=
+du</span></a></span><span style=3D"font-family:&quot;garamond&quot;,serif;colo=
+r:#212121"><o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"background:whit=
+e"><span style=3D"font-family:&quot;garamond&quot;,serif;color:black">Phone: 4=
+34-243-2760</span><span style=3D"font-family:&quot;garamond&quot;,serif;color:=
+#212121"><o:p></o:p></span></p><p class=3D"MsoNormal" style=3D"background:white"=
+><span style=3D"font-family:&quot;garamond&quot;,serif;color:black"><a href=3D"h=
+ttp://www.sabrinajcurtis.com/" title=3D"http://www.sabrinajcurtis.com/"><span =
+style=3D"color:#0078D4">www.sabrinajcurtis.com</span></a><o:p></o:p></span></p=
+><p class=3D"MsoNormal" style=3D"background:white"><span style=3D"font-family:&quo=
+t;garamond&quot;,serif;color:black"><a href=3D"http://www.education.virginia.e=
+du/">education.virginia.edu</a><o:p></o:p></span></p><p class=3D"MsoNormal" st=
+yle=3D"background:white"><span style=3D"font-family:&quot;garamond&quot;,serif;c=
+olor:black"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal" style=3D"backgrou=
+nd:white"><span style=3D"color:black"><img border=3D"0" width=3D"356" height=3D"88" =
+style=3D"width:3.7083in;height:.9166in" id=3D"Picture_x0020_1" src=3D"cid:image001=
+.png@01DBC8AE.4A4B11A0" alt=3D"UVA School of Education Logo"></span><span styl=
+e=3D"font-family:&quot;garamond&quot;,serif;color:#212121"><o:p></o:p></span><=
+/p></div></div><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Aptos&quo=
+t;,sans-serif"><o:p>&nbsp;</o:p></span></p><p class=3D"MsoNormal"><span style=3D=
+"font-family:&quot;Aptos&quot;,sans-serif"><o:p>&nbsp;</o:p></span></p><p cl=
+ass=3D"MsoNormal"><span style=3D"font-family:&quot;Aptos&quot;,sans-serif"><o:p>=
+&nbsp;</o:p></span></p><div id=3D"mail-editor-reference-message-container"><di=
+v><div><div style=3D"border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt =
+0in 0in 0in"><p class=3D"MsoNormal" style=3D"margin-bottom:12.0pt"><b><span styl=
+e=3D"font-size:12.0pt;font-family:&quot;Aptos&quot;,sans-serif;color:black">Fr=
+om: </span></b><span style=3D"font-size:12.0pt;font-family:&quot;Aptos&quot;,s=
+ans-serif;color:black">yn-ehd-request@virginia.edu &lt;yn-ehd-request@virgin=
+ia.edu&gt; on behalf of Youth-Nex &lt;youth-nex@virginia.edu&gt;<br><b>Date:=
+ </b>Tuesday, May 6, 2025 at 7:30</span><span style=3D"font-size:12.0pt;font-f=
+amily:&quot;Arial&quot;,sans-serif;color:black">=E2=80=AF</span><span style=3D"font-=
+size:12.0pt;font-family:&quot;Aptos&quot;,sans-serif;color:black">AM<br><b>T=
+o: </b>yn-ehd@virginia.edu &lt;yn-ehd@virginia.edu&gt;, yn-uva@virginia.edu =
+&lt;yn-uva@virginia.edu&gt;, YN-Gradstudents@virginia.edu &lt;YN-Gradstudent=
+s@virginia.edu&gt;, YN-Affiliate@virginia.edu &lt;YN-Affiliate@virginia.edu&=
+gt;<br><b>Subject: </b>Annual Report Request<o:p></o:p></span></p></div><div=
+><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif"=
+>Good morning Youth-Nex colleagues,</span><o:p></o:p></p><p class=3D"MsoNormal=
+"><span style=3D"font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span><o:p><=
+/o:p></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,san=
+s-serif">Per the announcement below in our last update email, if you are rec=
+eiving this email, we would like to include you in our <b>annual report</b>!=
+ This is a yearly summary document we provide to our funders/supporters, and=
+ use for development/advancement purposes that highlights members of our com=
+munity and their accomplishments. Please reply with your current CV or updat=
+ed accomplishments/scholarship from July 2024 to now! </span><o:p></o:p></p>=
+<p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif">=
+&nbsp;</span><o:p></o:p></p><p class=3D"MsoNormal"><span style=3D"font-family:&q=
+uot;Arial&quot;,sans-serif">We are hoping to connect with scholars now befor=
+e graduation that may be offline this summer. Thank you for supporting this =
+annual report effort!</span><o:p></o:p></p><p class=3D"MsoNormal"><span style=3D=
+"font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span><o:p></o:p></p><p cl=
+ass=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif">&nbsp=
+;</span><o:p></o:p></p><div style=3D"border:none;border-top:solid #B5C4DF 1.0p=
+t;padding:3.0pt 0in 0in 0in"><p class=3D"MsoNormal"><b><span style=3D"font-size:=
+12.0pt;color:black">From: </span></b><span style=3D"font-size:12.0pt;color:bla=
+ck">Youth-Nex &lt;youth-nex@virginia.edu&gt;<br><b>Date: </b>Friday, April 1=
+8, 2025 at 7:00=E2=80=AFAM<br><b>To: </b>&quot;yn-ehd@virginia.edu&quot; &lt;yn-eh=
+d@virginia.edu&gt;, &quot;yn-uva@virginia.edu&quot; &lt;yn-uva@virginia.edu&=
+gt;, &quot;YN-Gradstudents@virginia.edu&quot; &lt;YN-Gradstudents@virginia.e=
+du&gt;, &quot;YN-Affiliate@virginia.edu&quot; &lt;YN-Affiliate@virginia.edu&=
+gt;<br><b>Subject: </b>YN Apr25 update | New Collaboration Corner, Annual Re=
+port, etc.</span><o:p></o:p></p></div><div><p class=3D"MsoNormal"><span style=3D=
+"font-size:12.0pt;font-family:&quot;Aptos&quot;,sans-serif">&nbsp;</span><o:=
+p></o:p></p></div><div><p class=3D"MsoNormal"><span style=3D"font-family:&quot;A=
+rial&quot;,sans-serif">D<span style=3D"color:black">ear Youth-Nex colleagues,<=
+/span></span><o:p></o:p></p><p class=3D"MsoNormal"><span style=3D"font-family:&q=
+uot;Arial&quot;,sans-serif">&nbsp;</span><o:p></o:p></p><p class=3D"MsoNormal"=
+><span style=3D"font-family:&quot;Arial&quot;,sans-serif">As we approach the s=
+pring semester finals<span style=3D"color:black">, this update email is for in=
+ternal members of our Youth-Nex community</span> with community updates, and=
+ more<span style=3D"color:black">! If you need any </span>assistance or <span =
+style=3D"color:black">support, please do not hesitate to reach out to any of t=
+he Youth-Nex staff</span>.</span><o:p></o:p></p><p class=3D"MsoNormal"><b><spa=
+n style=3D"font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span></b><o:p></o=
+:p></p><p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Arial&quot;,sa=
+ns-serif;color:black">ANNOUNCEMENTS</span></b><o:p></o:p></p><ul style=3D"marg=
+in-top:0in" type=3D"disc"><li class=3D"MsoNormal" style=3D"mso-list:l4 level1 lfo1=
+"><b><span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:red">NEW</s=
+pan></b><span style=3D"font-family:&quot;Arial&quot;,sans-serif">: Introducing=
+ the <b>Youth-Nex Collaboration Corner</b>! The &quot;Collaboration Corner&q=
+uot; is a fresh addition to our monthly or quarterly internal update emails =
+to highlight opportunities for collaboration, which will live under UVA netb=
+adge on the <a href=3D"https://youthnexdrive.virginia.edu/">Youth-Nex Drive</a=
+>. This effort is designed to shine a spotlight on our diverse scholars, the=
+ir innovative projects, and the groundbreaking work being done across Youth-=
+Nex (see attached PDF for more on this new effort). Watch for updates and co=
+ntact Leslie if you are interested in being featured!</span><o:p></o:p></li>=
+<li class=3D"MsoNormal" style=3D"mso-list:l4 level1 lfo1"><b><span style=3D"font-f=
+amily:&quot;Arial&quot;,sans-serif">YN Annual Report</span></b><span style=3D"=
+font-family:&quot;Arial&quot;,sans-serif">: If you are receiving this email,=
+ we would like to include you in our annual report! This is a yearly summary=
+ document we provide to our funders/supporters, and use for development purp=
+oses that highlights members of our community. Please reply with your curren=
+t CV or updated accomplishment/scholarships from since July 2024! We are hop=
+ing to connect with scholars now that may not be online this summer. </span>=
+<o:p></o:p></li><li class=3D"MsoNormal" style=3D"mso-list:l4 level1 lfo1"><b><sp=
+an style=3D"font-family:&quot;Arial&quot;,sans-serif">Summer Wage Planning</sp=
+an></b><span style=3D"font-family:&quot;Arial&quot;,sans-serif">: The upcoming=
+ UVA summer HR period will run from 5/19/2025 through 8/10/25! We are starti=
+ng to plan for your summer wage needs so they can be shepherded through the =
+new hiring requirements. Please let Leslie know what extension or new hires =
+you have, and watch for communications!</span><o:p></o:p></li><li class=3D"Mso=
+Normal" style=3D"mso-list:l4 level1 lfo1"><span style=3D"font-family:&quot;Arial=
+&quot;,sans-serif">Faculty members are sometimes targeted, on social media a=
+nd elsewhere, for the research they conduct or the views they express. The U=
+VA Provost's&nbsp;<a href=3D"https://provost.virginia.edu/online-targeting-res=
+ponse-resources" title=3D"https://provost.virginia.edu/online-targeting-respon=
+se-resources">Online Targeting Response Resources</a> provides guidance and =
+support for navigating online harassment.</span><o:p></o:p></li><li class=3D"M=
+soNormal" style=3D"mso-list:l4 level1 lfo1"><span style=3D"font-family:&quot;Ari=
+al&quot;,sans-serif">Youth Writing Opportunity: Attached is a call for propo=
+sals for upcoming special issue of&nbsp;English&nbsp;Journal focused on stud=
+ent/youth voice, research, and activism. They are welcoming manuscripts writ=
+ten solely by young folks or co-authored with teachers/mentors due 8/1/25. E=
+mail Lauren Leigh Kelly at <a href=3D"mailto:lauren.kelly@gse.rutgers.edu">lau=
+ren.kelly@gse.rutgers.edu</a> with questions!</span><o:p></o:p></li><li clas=
+s=3D"MsoNormal" style=3D"mso-list:l4 level1 lfo1"><span style=3D"font-family:&quot=
+;Arial&quot;,sans-serif">Ethical Approaches to Mandatory Reporting Study: Pl=
+ease see the attached recruitment flyer from a former YN student who is cond=
+ucting a qualitative study on researchers who work with youth and families, =
+and handle situations involving mandatory reporting (see <a href=3D"http://bit=
+.ly/4jCqbtD">interest form</a>).</span><o:p></o:p></li><li class=3D"MsoNormal"=
+ style=3D"mso-list:l4 level1 lfo1"><span style=3D"font-family:&quot;Arial&quot;,=
+sans-serif">Happy upcoming birthdays to Martha Pullen (5/6) and Taina Quiles=
+ (5/9)! You are welcome and encouraged to share your birthday in&nbsp;</span=
+><a href=3D"https://virginia.az1.qualtrics.com/jfe/form/SV_2adEiIDPzucivci" ti=
+tle=3D"https://virginia.az1.qualtrics.com/jfe/form/SV_2adEiIDPzucivci"><span s=
+tyle=3D"font-family:&quot;Arial&quot;,sans-serif">this survey</span></a><span =
+style=3D"font-family:&quot;Arial&quot;,sans-serif">&nbsp;to be recognized in t=
+he future!</span><o:p></o:p></li></ul><p class=3D"MsoNormal"><span style=3D"font=
+-family:&quot;Arial&quot;,sans-serif">&nbsp;</span><o:p></o:p></p><p class=3D"=
+MsoNormal"><b><span style=3D"font-family:&quot;Arial&quot;,sans-serif">REMINDE=
+RS</span></b><o:p></o:p></p><ul style=3D"margin-top:0in" type=3D"disc"><li class=
+=3D"MsoNormal" style=3D"mso-list:l2 level1 lfo2"><b><span style=3D"font-family:&qu=
+ot;Arial&quot;,sans-serif"><a href=3D"https://youthnexdrive.virginia.edu/stude=
+nt-interest-database">YN Student Interest Database for Volunteers</a></span>=
+</b><span style=3D"font-family:&quot;Arial&quot;,sans-serif">: As a reminder, =
+every month we are adding new students (UVA and non-UVA) who are interested =
+in working with members of the center. With these uncertain budget times, pl=
+ease note that some students are looking to volunteer this summer if you are=
+ looking for support!</span><o:p></o:p></li><li class=3D"MsoNormal" style=3D"mso=
+-list:l2 level1 lfo2"><span style=3D"font-family:&quot;Arial&quot;,sans-serif"=
+>As we approach more conferences before graduation (AERA/SRCD, etc.), please=
+ consider re-reviewing our <a href=3D"https://youthnexdrive.virginia.edu/oppor=
+tunities/job-market-candidates">Youth-Nex Job Market Candidates</a> to menti=
+on to your colleagues or introduce this junior scholars, where applicable!</=
+span><o:p></o:p></li><li class=3D"MsoNormal" style=3D"mso-list:l2 level1 lfo2"><=
+b><span style=3D"font-family:&quot;Arial&quot;,sans-serif">YN Core Faculty:</s=
+pan></b><span style=3D"font-family:&quot;Arial&quot;,sans-serif"> </span><o:p>=
+</o:p></li></ul><ul style=3D"margin-top:0in" type=3D"disc"><ul style=3D"margin-top=
+:0in" type=3D"circle"><li class=3D"MsoNormal" style=3D"mso-list:l5 level2 lfo3"><s=
+pan style=3D"font-family:&quot;Arial&quot;,sans-serif">Please let Crystal know=
+ of any potential&nbsp;proposals&nbsp;you plan on submitting between now and=
+ end of July. Even if they don=E2=80=99t come to fruition, it helps to know about =
+them so that we can plan accordingly and ensure adequate coverage between Yo=
+uth-Nex and the EHD pre-award office. </span><o:p></o:p></li><li class=3D"MsoN=
+ormal" style=3D"mso-list:l5 level2 lfo3"><span style=3D"font-family:&quot;Arial&=
+quot;,sans-serif;color:black">Given the recent email updates from President =
+Ryan and Dean Rowley regarding budget challenges and discretionary expenditu=
+res, please read over the<span class=3D"apple-converted-space">&nbsp;</span></=
+span><span style=3D"font-family:&quot;Arial&quot;,sans-serif"><a href=3D"https:/=
+/myuva.sharepoint.com/sites/Intranet/SitePages/Internal-Communic.aspx" title=
+=3D"https://myuva.sharepoint.com/sites/Intranet/SitePages/Internal-Communic.as=
+px"><span style=3D"font-family:&quot;Calibri&quot;,sans-serif">EHD memos</span=
+></a><span class=3D"apple-converted-space"><span style=3D"color:black">&nbsp;</s=
+pan></span><span style=3D"color:black">carefully.</span> Please note that YN h=
+as also suspended non-essential expenditures on non-sponsored funds includin=
+g Youth-Nex specific professional development support, and is requiring docu=
+mented PI approval for all travel. Please follow-up with Crystal/Martha with=
+ questions!</span><o:p></o:p></li></ul></ul><ul style=3D"margin-top:0in" type=3D=
+"disc"><li class=3D"MsoNormal" style=3D"mso-list:l1 level1 lfo4"><span style=3D"fo=
+nt-family:&quot;Arial&quot;,sans-serif">If you missed it, attached here is a=
+n end-of-the-year message from YN Director Nancy Deutsch!</span><o:p></o:p><=
+/li></ul><p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Arial&quot;,=
+sans-serif">&nbsp;</span></b><o:p></o:p></p><p class=3D"MsoNormal"><b><span st=
+yle=3D"font-family:&quot;Arial&quot;,sans-serif;color:black">EVENTS</span></b>=
+<o:p></o:p></p><ul style=3D"margin-top:0in" type=3D"disc"><li class=3D"MsoListPara=
+graph" style=3D"margin-left:0in;mso-list:l3 level1 lfo5"><b><span style=3D"font-=
+family:&quot;Arial&quot;,sans-serif;color:red">Upcoming! </span></b><b><span=
+ style=3D"font-family:&quot;Arial&quot;,sans-serif">Sp25 Research Talk:</span>=
+</b><span style=3D"font-family:&quot;Arial&quot;,sans-serif"> On Friday May 2<=
+sup>nd</sup>&nbsp;at 11 AM in Ridley 302, Youth-Nex is hosting Dr.&nbsp;Dani=
+el J. Flannery on &quot;</span><a href=3D"https://education.virginia.edu/event=
+s/Youth-Nex-Talk-2025-May-02"><span style=3D"font-family:&quot;Arial&quot;,san=
+s-serif">Challenges to Positive Youth Development:&nbsp;Violence &amp; Menta=
+l Health in Everyday Life</span></a><span style=3D"font-family:&quot;Arial&quo=
+t;,sans-serif">=E2=80=9D (iCal is attached). There is a hybrid option for designat=
+ed remote employees or non-local partners, and options for on-Grounds parkin=
+g is available for non-UVA local partners who may want to attend (please rea=
+ch out to Leslie for more info).</span><o:p></o:p></li><li class=3D"MsoListPar=
+agraph" style=3D"margin-left:0in;mso-list:l3 level1 lfo5"><b><span style=3D"font=
+-family:&quot;Arial&quot;,sans-serif">Fall Talk Save the Date</span></b><spa=
+n style=3D"font-family:&quot;Arial&quot;,sans-serif">: We will be welcoming Dr=
+. Deborah Rivas-Drake (Stephanie J. Rowley Collegiate Professor, and Associa=
+te Dean for Diversity, Inclusion, Justice, and Equity in the Marsal School o=
+f Education at University of Michigan) on Friday 9/26. Please mark your cale=
+ndar now and watch for future updates!</span><o:p></o:p></li></ul><p class=3D"=
+MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif">&nbsp;</sp=
+an><o:p></o:p></p><p class=3D"MsoNormal"><b><span style=3D"font-family:&quot;Ari=
+al&quot;,sans-serif">NEWS</span></b><o:p></o:p></p><ul style=3D"margin-top:0in=
+" type=3D"disc"><li class=3D"MsoListParagraph" style=3D"margin-left:0in;mso-list:l=
+0 level1 lfo6"><span style=3D"font-family:&quot;Arial&quot;,sans-serif"><a hre=
+f=3D"https://youthnexdrive.virginia.edu/strategies-teaching-goal-setting-middl=
+e-schoolers">Goal Setting with Middle Schoolers</a>: Post-doc Jia Ma shares =
+tips and downloadable resources for helping students set goals.</span><o:p><=
+/o:p></li><li class=3D"MsoListParagraph" style=3D"margin-left:0in;mso-list:l0 le=
+vel1 lfo6"><span style=3D"font-family:&quot;Arial&quot;,sans-serif"><a href=3D"h=
+ttps://youthnexdrive.virginia.edu/youth-digital-futures-research-based-refle=
+ctions-social-media-mental-health">Social Media &amp; Mental Health</a>: Tee=
+n author Reanna summarizes and reflects on a debate at our fall conference. =
+</span><o:p></o:p></li><li class=3D"MsoListParagraph" style=3D"margin-left:0in;m=
+so-list:l0 level1 lfo6"><span style=3D"font-family:&quot;Arial&quot;,sans-seri=
+f"><a href=3D"https://education.virginia.edu/news-stories/edlab-podcast-suppor=
+ting-students-return-school-after-mental-health-hospital-visit">EHD Podcast<=
+/a>: Check out and listen to Dr. Lora Henderson Smith and her scholarship be=
+ing highlighted in this new episode!</span><o:p></o:p></li><li class=3D"MsoLis=
+tParagraph" style=3D"margin-left:0in;mso-list:l0 level1 lfo6"><span style=3D"fon=
+t-family:&quot;Arial&quot;,sans-serif"><a href=3D"https://education.virginia.e=
+du/news-stories/catherine-bradshaw-selected-2025-aera-fellow">AERA Fellow</a=
+>: Congrats to Dr. Catherine Bradshaw who was selected as a 2025 AERA Fellow=
+!</span><o:p></o:p></li><li class=3D"MsoListParagraph" style=3D"margin-left:0in;=
+mso-list:l0 level1 lfo6"><span style=3D"font-family:&quot;Arial&quot;,sans-ser=
+if"><a href=3D"https://uvamagazine.org/articles/the_science_of_parenting">Scie=
+nce of Parenting</a>: The UVA Magazine highlights work by our Dr.s Wintre Fo=
+xworth Johnson and Amrisha Vaish.</span><o:p></o:p></li></ul><p class=3D"MsoNo=
+rmal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span><o=
+:p></o:p></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;=
+,sans-serif;color:black">For more updates on news at Youth-Nex this month, p=
+lease follow us on any of the social media platforms!</span><span style=3D"fon=
+t-family:&quot;Arial&quot;,sans-serif"> <span style=3D"color:black">Thank you =
+for supporting Youth-Nex and the important work happening here</span>.</span=
+><o:p></o:p></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&qu=
+ot;,sans-serif;color:black">&nbsp;&nbsp;</span><o:p></o:p></p><p class=3D"MsoN=
+ormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif">&nbsp;</span><=
+o:p></o:p></p></div><div><p class=3D"MsoNormal"><span style=3D"font-family:&quot=
+;Arial&quot;,sans-serif;color:black">--</span><o:p></o:p></p><p class=3D"MsoNo=
+rmal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:black">&nb=
+sp;</span><o:p></o:p></p><p class=3D"MsoNormal"><b><span style=3D"font-family:&q=
+uot;Arial&quot;,sans-serif;color:black">Youth-Nex&nbsp;</span></b><span styl=
+e=3D"font-family:&quot;Arial&quot;,sans-serif;color:black">| Center to Promote=
+ Effective Youth Development</span><o:p></o:p></p><p class=3D"MsoNormal"><span=
+ style=3D"font-family:&quot;Arial&quot;,sans-serif;color:black">University of =
+Virginia | School of Education and Human Development</span><o:p></o:p></p><p=
+ class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;col=
+or:black">PO Box 400281</span><o:p></o:p></p><p class=3D"MsoNormal"><span styl=
+e=3D"font-family:&quot;Arial&quot;,sans-serif;color:black">Charlottesville, VA=
+ 22904</span><o:p></o:p></p><p class=3D"MsoNormal"><a href=3D"mailto:Youth-Nex@v=
+irginia.edu" title=3D"mailto:Youth-Nex@virginia.edu"><span style=3D"font-family:=
+&quot;Arial&quot;,sans-serif;color:#03386D">Youth-Nex@virginia.edu</span></a=
+><o:p></o:p></p><p class=3D"MsoNormal"><a href=3D"http://education.virginia.edu/=
+Youth-Nex" title=3D"http://education.virginia.edu/Youth-Nex"><span style=3D"font=
+-family:&quot;Arial&quot;,sans-serif;color:#03386D">http://education.virgini=
+a.edu/Youth-Nex</span></a><o:p></o:p></p><p class=3D"MsoNormal"><span style=3D"f=
+ont-family:&quot;Arial&quot;,sans-serif;color:black">&nbsp;</span><o:p></o:p=
+></p><p class=3D"MsoNormal"><span style=3D"font-family:&quot;Arial&quot;,sans-se=
+rif;color:black">Follow us on social media:<b>&nbsp;</b></span><a href=3D"http=
+s://twitter.com/Youth_Nex"><span style=3D"font-family:&quot;Arial&quot;,sans-s=
+erif">X</span></a><span style=3D"font-family:&quot;Arial&quot;,sans-serif;colo=
+r:black">&nbsp;|&nbsp;</span><a href=3D"https://www.facebook.com/YouthNex" tit=
+le=3D"https://www.facebook.com/YouthNex"><span style=3D"font-family:&quot;Arial&=
+quot;,sans-serif;color:#03386D">Facebook</span></a><span style=3D"font-family:=
+&quot;Arial&quot;,sans-serif;color:black">&nbsp;|&nbsp;</span><a href=3D"https=
+://www.instagram.com/youth_nex" title=3D"https://www.instagram.com/youth_nex">=
+<span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:#03386D">Instagr=
+am</span></a><span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:bla=
+ck">&nbsp;|&nbsp;</span><a href=3D"https://www.youtube.com/youthnex" title=3D"ht=
+tps://www.youtube.com/youthnex"><span style=3D"font-family:&quot;Arial&quot;,s=
+ans-serif">Youtube</span></a><span style=3D"font-family:&quot;Arial&quot;,sans=
+-serif;color:black"> | </span><a href=3D"https://www.threads.net/@youth_nex"><=
+span style=3D"font-family:&quot;Arial&quot;,sans-serif">Threads</span></a><spa=
+n style=3D"font-family:&quot;Arial&quot;,sans-serif;color:black"> | </span><a =
+href=3D"https://www.linkedin.com/school/youth-nex/"><span style=3D"font-family:&=
+quot;Arial&quot;,sans-serif">LinkedIn</span></a><o:p></o:p></p><p class=3D"Mso=
+Normal"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:black">S=
+ign up for the&nbsp;</span><a href=3D"https://virginia.us6.list-manage.com/sub=
+scribe?u=3Db03f141295f41ffa2536b49c5&amp;id=3Dbf201fa7d6" title=3D"https://virgini=
+a.us6.list-manage.com/subscribe?u=3Db03f141295f41ffa2536b49c5&amp;id=3Dbf201fa7d=
+6"><span style=3D"font-family:&quot;Arial&quot;,sans-serif;color:#03386D">Yout=
+h-Nex Newsletter</span></a><span style=3D"font-family:&quot;Arial&quot;,sans-s=
+erif;color:black">! </span><o:p></o:p></p><p class=3D"MsoNormal"><span style=3D"=
+font-family:&quot;Arial&quot;,sans-serif;color:black">&nbsp;</span><o:p></o:=
+p></p></div></div></div></div></div></div></body></html>
+
+--B_3830510866_3125773773--
+
+
+--B_3830510866_605808439
+Content-type: image/png; name="image001.png";
+ x-mac-creator="4F50494D";
+ x-mac-type="504E4766"
+Content-ID: <image001.png@01DBC8AE.4A4B11A0>
+Content-disposition: inline;
+	filename="image001.png"
+Content-transfer-encoding: base64
+
+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
+oP8uqTHJ19eH
+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
+--B_3830510866_605808439--
+
+
+--B_3830510866_1589718790--
+
